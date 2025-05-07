@@ -86,7 +86,3 @@ Because your logs deserve an **IQ boost**.
 
 ```
 
----
-
-Хочешь — помогу структурировать `pyproject.toml`, `setup.py` или `requirements.txt`, а также разнести код по папкам. Готов продолжить!
-```
